@@ -17,7 +17,7 @@ Each record represents an event such as:
 * Product view
 * Add to cart
 * Purchase
-Key Features
+### Key Features
 * UserID – unique identifier
 * Timestamp – activity time
 * EventType – user action
