@@ -72,7 +72,7 @@ Important features created:
 - Support Vector Machine
 - Decision Tree
 - Random Forest
-⭐Best Model
+* ⭐ Best Model
 Decision Tree was selected as the best model based on:
 - Accuracy: 82%
 - Better classification performance
